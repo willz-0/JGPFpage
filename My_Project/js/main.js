@@ -1,0 +1,1 @@
+console.log("JavaScript is connected - starter Project Loaded.");
